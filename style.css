@@ -1,6 +1,6 @@
 h1 {
     color: rgb(75, 30, 1);
-    Font-family: "Courier";
+    Font-family: "Script";
     font-size: 300%;
     text-align:center;
     margin: 4%;
@@ -8,7 +8,7 @@ h1 {
 
 h3 {
     color: rgba(39, 20, 7, 0.877);
-    Font-family:"Courier";
+    Font-family:"Script";
     font-size: 200%;
     text-align:center;
 }
