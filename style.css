@@ -8,14 +8,14 @@ h1 {
 
 h3 {
     color: rgba(39, 20, 7, 0.877);
-    Font-family: "Monaco";
+    Font-family: "Helvatica";
     font-size: 200%;
     text-align:center;
 }
 p {
     color: rgb(75, 30, 1);
     Font-family: "Courier";
-    font-size: 300%;
+    font-size: 100%;
     text-align:center;
 }
 #facebook {
