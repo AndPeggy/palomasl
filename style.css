@@ -1,8 +1,6 @@
-*{
-    Font-family: "Courier" !important
-}
 h1 {
     color: rgb(75, 30, 1);
+    Font-family: "Courier"
     font-size: 300%;
     text-align:center;
     margin: 4%;
