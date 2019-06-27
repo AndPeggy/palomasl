@@ -8,8 +8,14 @@ h1 {
 
 h3 {
     color: rgba(39, 20, 7, 0.877);
-    font-family: "Times New Roman";
+    font-family: "Monaco";
     font-size: 200%;
+    text-align:center;
+}
+<p> {
+    color: rgb(75, 30, 1);
+    Font-family: "Courier"
+    font-size: 300%;
     text-align:center;
 }
 #facebook {
@@ -47,7 +53,4 @@ h3 {
 #handbag {
     width: 250px;
     height: 250px;
-}
-<p> {
-    text-align:center;
 }
