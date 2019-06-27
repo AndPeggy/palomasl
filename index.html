@@ -71,7 +71,24 @@
     <img src="twitter.png" id="twitter" alt="twitter"/>
     <img src="instagram.png" id="instagram" alt="instagram"/>
     <img src="facebook.png" id="facebook" alt="facebook"/>
-
+    <form action="/my-handling-form-page" method="post">
+        <div>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="user_name" />
+        </div>
+        <div>
+            <label for="mail">E-mail:</label>
+            <input type="email" id="mail" name="user_email" />
+        </div>
+        <div>
+            <label for="msg">Message:</label>
+            <textarea id="msg" name="user_message"></textarea>
+        </div>
+        
+        <div class="button">
+            <button type="submit">Send your message</button>
+        </div>
+    </form>
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
