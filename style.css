@@ -27,22 +27,31 @@ p {
 #facebook {
     width: 75px;
     height: 75px;
+    align:center;
+}
 }
 #twitter {
     width: 75px;
     height: 75px;
+    align:center;
+}
 }
 #patronaje {
     width: 300px;
     height: 300px;
 }
+}
 #pinterest {
     width: 100px;
     height: 100px;
+    align:center;
+}
 }
 #instagram {
     width: 100px;
     height: 100px;
+    align:center;
+}
 }
 #playa {
     width: 400px;
