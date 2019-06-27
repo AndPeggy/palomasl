@@ -1,0 +1,55 @@
+*{
+    Font-family: "Courier" !important
+}
+h1 {
+    color: rgb(75, 30, 1);
+    font-size: 300%;
+    text-align:center;
+    margin: 4%;
+}
+
+h3 {
+    color: rgba(39, 20, 7, 0.877);
+    font-family: "Times New Roman";
+    font-size: 200%;
+    text-align:center;
+}
+#facebook {
+    width: 75px;
+    height: 75px;
+}
+#twitter {
+    width: 75px;
+    height: 75px;
+}
+#patronaje {
+    width: 300px;
+    height: 300px;
+}
+#pinterest {
+    width: 100px;
+    height: 100px;
+}
+#instagram {
+    width: 100px;
+    height: 100px;
+}
+#playa {
+    width: 200px;
+    height: 200px;
+}
+#ciudad {
+    width: 200px;
+    height: 200px;
+}
+#mochila {
+    width: 200px;
+    height: 200px;
+}
+#handbag {
+    width: 200px;
+    height: 200px;
+}
+<p> {
+    text-align:center;
+}
